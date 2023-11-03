@@ -1,9 +1,6 @@
 This repository contains code to call germline SNPs and indels using [GATK Best Practices](https://gatk.broadinstitute.org/hc/en-us/articles/360035535932-Germline-short-variant-discovery-SNPs-Indels-)
 
-<div style="text-align: center;">
-  <img src="https://github.com/PeggySze/WGS/blob/main/GATK_pipeline.png" style="display: block; margin: auto;" />
-  <p>Main steps for Germline Cohort Data</p>
-</div>
+<img src="https://github.com/PeggySze/WGS/blob/main/GATK_pipeline.png" style="display: block; margin: auto;" />
 
 ### Step1: Quality control and trimming of raw reads by fastp
 - scirpt: 01_fastp.sh
